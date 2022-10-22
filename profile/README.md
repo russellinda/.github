@@ -1,5 +1,7 @@
 # Welcome to Russellinda
 
-![Russelinda Banner](banner.jpg)
+<p align="center">
+  <img align="center" src="/profile/banner.jpg"/>
+</p>
 
-A cross-platform for Android, iOS, Windows, macOS, Linux, and Raspberry Pi. Considering stories like Russel, Monroe, Crain and more stories about Russellinda. In Classics, this game that provides upon the stories from simplicity.
+A cross-platform for **Android**, **iOS**, **Windows**, **macOS**, **Linux**, and **Raspberry Pi**. Considering stories like Russel, Monroe, Crain and more stories about Russellinda. In Classics, this game that provides upon the stories from simplicity.
